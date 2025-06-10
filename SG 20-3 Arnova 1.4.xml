@@ -36,7 +36,7 @@
     <string name="pref_has_seen_swiped_to_video">1</string>
     <string name="pref_cuttlefish_front_torch_mode_key">off</string>
     <string name="pref_hdrdenoisefront_key">100</string>
-    <string name="pref_camera_enable_iris">0</string>
+    <string name="pref_camera_enable_iris">1</string>
     <string name="pref_has_checked_ornament_mode">1</string>
     <string name="pref_micro_mode">2</string>
     <string name="pref_back_denoise_revert_1_key">5</string>
@@ -74,7 +74,7 @@
     <string name="exp_ns_key">0</string>
     <string name="pref_back_noise_model_as_key">423575</string>
     <string name="pref_enable_lowlight_key">0</string>
-    <string name="config_key">0</string>
+    <string name="config_key">1</string>
     <string name="pref_camera_hdr_plus_key">on</string>
     <string name="vfp_ae_key">1</string>
     <string name="pref_video_stabilization_key">1</string>
@@ -129,7 +129,7 @@
     <string name="pref_has_checked_cuttlefish_mode">1</string>
     <string name="pref_raw_compression_key">0</string>
     <string name="pref_back_noise_model_bs_key">68175</string>
-    <string name="pref_camera_front_flashmode_key">off</string>
+    <string name="pref_camera_front_flashmode_key">on</string>
     <string name="fix_ns_key">0</string>
     <string name="pref_livehdr_key">0</string>
     <string name="pref_back_denoise_luma_1_key">70</string>
@@ -155,5 +155,5 @@
     <string name="pref_has_checked_gouda_mode">1</string>
     <string name="pref_camera_advice_settings">1</string>
     <string name="pref_front_denoise_revert_0_key">15</string>
-    <string name="pref_af_mode_back">0</string>
+    <string name="pref_af_mode_back">1</string>
 </map>
